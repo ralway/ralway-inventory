@@ -19,6 +19,7 @@
 *  1 × PECO ST-247                  (Y Turnout, Medium Radius)
 *  1 × PECO SL-86                   (Curved Turnout, Large Radius, Right Hand)
 *  1 × PECO SL-87                   (Curved Turnout, Large Radius, Left Hand)
+*  1 × PECO SL-88                   (Turnout, Large Radius, Right Hand)
 *  1 × PECO SL-89                   (Turnout, Large Radius, Left Hand)
 *  5 × PECO SL-91                   (Turnout, Small Radius, Right Hand)
 *  4 × PECO SL-92                   (Turnout, Small Radius, Left Hand)
