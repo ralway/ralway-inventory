@@ -1,4 +1,6 @@
-# Locomotives
+# Rolling Stock
+
+## Locomotives
 
 Number | Class | Coupling        | Details
 -------|-------|-----------------|---------
@@ -6,13 +8,13 @@ Number | Class | Coupling        | Details
 7738   | 5700  | Bachmann Mk1 TL | GWR 0-6-0PT
 06003  | 06    | Hornby TL       | 0-4-0 diesel-mechanical shunter in Engineer's Yellow, Network Rail Livery
 
-# Coaches
+## Coaches
 
 Number | Type   | Coupling  | Details
 -------|--------|-----------|--------
-W34860 | BSK    | …         | BR Mk 1 in Chocolate and Cream
+W34860 | BSK    | Small TL  | BR Mk 1 in Chocolate and Cream
 
-# Wagons
+## Wagons
 
 Number | Type      | Coupling  | Details
 -------|-----------|-----------|--------
@@ -20,3 +22,9 @@ Number | Type      | Coupling  | Details
 …      | 12T Tank  | Hornby TL | Hurst Nelson 12 ton Tank Wagon in Engineer's Yellow, Network Rail Livery
 …      | 13T Wagon | Hornby TL | 13T Medfit steel open wagon in Engineer's Yellow, Network Rail Livery
 
+# Abbreviations
+
+Abbrev. | Meaning
+--------|--------
+BSK     | Brake Standard Corridor
+TL      | Tension Lock
