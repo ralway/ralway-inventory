@@ -7,6 +7,7 @@ Number | Class | Coupling        | Details
 7768   | 5700  | Bachmann Mk1 TL | GWR 0-6-0PT
 7738   | 5700  | Bachmann Mk1 TL | GWR 0-6-0PT
 06003  | 06    | Hornby TL       | 0-4-0 diesel-mechanical shunter in Engineer's Yellow, Network Rail Livery
+73138  | 73/1  | Bachmann Mk2 TL | Bo-Bo electro-diesel in Engineer's Yellow, 90 mph max speed
 
 ## Coaches
 
