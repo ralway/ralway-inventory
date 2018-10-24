@@ -22,6 +22,7 @@ Number | Type      | Coupling  | Details
 …      | TOAD E    | Hornby TL | Ex LNER goods brake van in Engineer's Yellow, Network Rail Livery
 …      | 12T Tank  | Hornby TL | Hurst Nelson 12 ton Tank Wagon in Engineer's Yellow, Network Rail Livery
 …      | 13T Wagon | Hornby TL | 13T Medfit steel open wagon in Engineer's Yellow, Network Rail Livery
+24361  | 12T wagon | Medium TL | LMS 12T 5 plank open wagon in grey lettered with "LMS"
 
 # Abbreviations
 
