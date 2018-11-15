@@ -2,7 +2,7 @@ All times in local timezone.
 
 |                            | 🛠     | F | 🚶 | F | 🚶 |
 | -                          | -      | - | - | - | - |
-| Wolfsbad Yard              | 0900   |   |   |   |   |
+| Bad Wolfkasten             | 0900   |   |   |   |   |
 | Union Notice Board Station | &darr; |   |   |   |   |
 | Mooreland Halt             | &darr; |   |   |   |   |
 | Smugglers Coveney          | 0902   |   |   |   |   |
@@ -10,5 +10,5 @@ All times in local timezone.
 | Smugglers Coveney          | 0930   |   |   |   |   |
 | Mooreland Halt             | &darr; |   |   |   |   |
 | Union Notice Board Station | &darr; |   |   |   |   |
-| Wolfsbad Yard              | 0932   |   |   |   |   |
+| Bad Wolfkasten             | 0932   |   |   |   |   |
 
