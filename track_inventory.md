@@ -31,19 +31,20 @@
 
 
 ## CURVES
+*  1 × LIMA N/3011 R=431 30°
 *  1 × LIMA N/3035 DX               (POINT STRAIGHTENER?)
 *  1 × LIMA N/3030 R=360 36°        (POWER FEED)
-*  5 × LIMA N/3031 R=360 18°
-*  9 × LIMA N/3030 R=360 36°
+*  6 × LIMA N/3031 R=360 18°
+* 16 × LIMA N/3030 R=360 36°
 *  8 × LIMA R=415 22° 30'
 * 15 × PECO ST-220                  (Standard Curve, 1st Radius)
-* 20 × PECO ST-221 / HORNBY R605    [1 broken]
+* 27 × PECO ST-221 / HORNBY R605    [1 broken]
 *  4 × PECO ST-222                  (Half Curve, 1st Radius)
-* 14 × PECO ST-225 / HORNBY R606    (Standard Curve, 2nd Radius)
-* 22 × PECO ST-226 / HORNBY R607    (Double Curve, 2nd Radius)
+* 18 × PECO ST-225 / HORNBY R606    (Standard Curve, 2nd Radius)
+* 30 × PECO ST-226 / HORNBY R607    (Double Curve, 2nd Radius)
 *  1 × PECO ST-227                  (Half Curve, 2nd Radius)
 *  7 × PECO ST-230                  (Standard Curve, 3rd Radius)
-* 26 × PECO ST-231 / HORNBY R609    (Double Curve, 3rd Radius)
+* 34 × PECO ST-231 / HORNBY R609    (Double Curve, 3rd Radius)
 *  2 × PECO ST238 / HORNBY R628     (Special Curve, for straightening after a small/medium radius Y or 3 way turnout)
 
 
