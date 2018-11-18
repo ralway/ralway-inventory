@@ -23,7 +23,7 @@ Number | Type   | Coupling  | Details
 W34860 | BSK    | Small TL  | BR Mk 1 in Chocolate and Cream
   4920 | BCK    | Large TL  | GWR Collett Composite Brake in Chocolate and Cream with "coat of arms" logo
   6050 | CK     | Large TL  | 2 × GWR Collett Composite in Chocolate and Cream with "coat of arms" logo
-     … | TY     | Large TL  | Third class 4-wheel coach in Maroon
+…      | TY     | Large TL  | Third class 4-wheel coach in Maroon
 
 ## Wagons
 
