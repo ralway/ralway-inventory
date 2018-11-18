@@ -24,7 +24,7 @@ W34860 | BSK    | Small TL  | BR Mk 1 in Chocolate and Cream
   4920 | BCK    | Large TL  | GWR Collett Composite Brake in Chocolate and Cream with "coat of arms" logo
   6050 | CK     | Large TL  | 2 × GWR Collett Composite in Chocolate and Cream with "coat of arms" logo
 …      | TY     | Large TL  | Third class 4-wheel coach in Maroon
- 82207 | DVT    | Large TL  | Mark 4 SVT in InterCity Swallow Livery
+ 82207 | DVT    | Large TL  | Mark 4 DVT in InterCity Swallow Livery
 
 ## Wagons
 
@@ -51,6 +51,7 @@ Abbrev. | Meaning
 --------|--------
 BCK     | Brake Composite Corridor
 BSK     | Brake Standard Corridor
-TY      | Third-class, four wheel
+DVT     | Driving Van Trailer
 NR      | Network Rail
+TY      | Third-class, four wheel
 TL      | Tension Lock
