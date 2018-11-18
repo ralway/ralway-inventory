@@ -14,7 +14,7 @@ Number | Class | Coupling        | Details
 55022  | 55    | Large TL        | BR Co-Co diesel-electric in Rail Blue
 1220   | 1200  | European Loop   | NS Co-Co electric in NS Grey and Yellow Livery
 4      | 101   | Large TL        | GWR 0-4-0PT in Green
-8      | 264   | Large TL        | Caledonian Railways 0-4-0ST in Dark Blue
+8      | 0F    | Large TL        | Highland Railway 0-4-0ST in Caledonian Railway Blue
 
 ## Coaches
 
