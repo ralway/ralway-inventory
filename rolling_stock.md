@@ -24,6 +24,7 @@ W34860 | BSK    | Small TL  | BR Mk 1 in Chocolate and Cream
   4920 | BCK    | Large TL  | GWR Collett Composite Brake in Chocolate and Cream with "coat of arms" logo
   6050 | CK     | Large TL  | 2 × GWR Collett Composite in Chocolate and Cream with "coat of arms" logo
 …      | TY     | Large TL  | Third class 4-wheel coach in Maroon
+ 82207 | DVT    | Large TL  | Mark 4 SVT in InterCity Swallow Livery
 
 ## Wagons
 
@@ -37,6 +38,12 @@ W68855 | 20T Brake Van  | Medium TL | Ex-GWR 20 ton 'Toad' brake van in grey
 221119 | 12T Lowfit     | Medium TL | NER 12 ton 1 plank Lowfit wagon in bauxite
  70247 | 30T Bogie Bolster | Medium TL | GWR 30 ton 'Macaw B' (BR Bogie Bolster C) in grey
 123507 | 12T Van        | Medium TL | GWR 12 ton 'Mink' ventilated van in grey
+…      | Closed Van     | Large TL  | Weetabix van in Yellow
+230069 | 18T Ventilated | Large TL  | In BR Goods Livery
+…      | Horsebox       | Large TL  | In LMS Red Livery
+…      | 8T Open Wagon  | Large TL  | 2 × In Blue, with Crook & Greenway Livery
+…      | 8T Open Wagon  | Large TL  | In Red, with Hornby 1992 anniversary livery
+
 
 # Abbreviations
 
