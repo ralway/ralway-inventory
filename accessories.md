@@ -9,8 +9,8 @@
 *  2 × Hornby L6974 [59mm]
 *  2 × Hornby L6975 [69mm]
 *  4 × Hornby L6976 [79mm]
-*  1 × ? [8mm]
-*  1 × ? [16mm]
+*  1 × Lima [8mm]
+*  1 × Lima [16mm]
 
 ## Bridge Trusses
 *  1 × Lima Curved Truss (2 yellow, 1 grey)
