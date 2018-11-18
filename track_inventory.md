@@ -49,7 +49,6 @@
 
 
 ## STRAIGHTS
-*  1 × LIMA ?????                   [54mm]
 * ?? × HORNBY R618                  [broken]
 *  4 × PECO ST-201 / HORNBY R601    (Double Straight)
 *  3 × PECO ST-203                  (Special Short Straight, for use with curved turnouts when forming crossings)
@@ -58,7 +57,7 @@
 *  1 × LIMA N/3020                  [213mm, missing sleepers at one end]
 *  1 × LIMA N/3020                  [213mm, with buffers]
 *  1 × LIMA N/3021                  [110mm]
-*  1 × LIMA 403924                  [55.5mm]
+*  3 × LIMA 403924                  [55mm]
 *  2 × FLEISCHMANN 6101             (Profi, 200mm)
 *  4 × FLEISCHMANN 6001             (Model, 204mm)
 *  1 × FLEISCHMANN 6004             (Model, 40mm)
