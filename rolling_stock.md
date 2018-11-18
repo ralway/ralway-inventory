@@ -6,9 +6,15 @@ Number | Class | Coupling        | Details
 ------:|-------|-----------------|---------
 7738   | 5700  | Bachmann Mk1 TL | GWR 0-6-0PT in green with "shirtbutton" roundel
 7768   | 5700  | Bachmann Mk1 TL | GWR 0-6-0PT in green with "shirtbutton" roundel
-06003  | 06    | Hornby TL       | 0-4-0 diesel-mechanical shunter in Engineer's Yellow, Network Rail Livery
+06003  | 06    | Large TL        | 0-4-0 diesel-mechanical shunter in Engineer's Yellow, Network Rail Livery
 09026  | 09/0  | Large TL        | BR 0-6-0 diesel-electric in Rail Blue
 73138  | 73/1  | Bachmann Mk2 TL | Bo-Bo electro-diesel in Engineer's Yellow, 90 mph max speed
+32500  | E4    | Bachmann Mk2 TL | 0-6-2T in BR Lined Black, Late Crest (Bachmann 35-078)
+60163  | A1    | Bachmann Mk2 TL | 4-6-2 in BR Apple Green (Bachmann 32-550A)
+55022  | 55    | Large TL        | BR Co-Co diesel-electric in Rail Blue
+1220   | 1200  | European Loop   | NS Co-Co electric in NS Grey and Yellow Livery
+4      | 101   | Large TL        | GWR 0-4-0PT in Green
+8      | 264   | Large TL        | Caledonian Railways 0-4-0ST in Dark Blue
 
 ## Coaches
 
