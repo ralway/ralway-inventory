@@ -62,6 +62,7 @@
 *  2 × FLEISCHMANN 6101             (Profi, 200mm)
 *  4 × FLEISCHMANN 6001             (Model, 204mm)
 *  1 × FLEISCHMANN 6004             (Model, 40mm)
+*  1 × HORNBY R636                  (Double track level crossing)
 
 
 ## STRAIGHT OFFCUTS
