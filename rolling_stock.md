@@ -13,7 +13,7 @@ Number | Class | Coupling        | Details
 60163  | A1    | Bachmann Mk2 TL | 4-6-2 in BR Apple Green (Bachmann 32-550A)
 55022  | 55    | Large TL        | BR Co-Co diesel-electric in Rail Blue
 1220   | 1200  | European Loop   | NS Co-Co electric in NS Grey and Yellow Livery
-4      | 101   | Large TL        | GWR 0-4-0PT in Green
+4      | 101   | Large TL        | GWR 0-4-0PT in Bright Green
 8      | 0F    | Large TL        | Highland Railway 0-4-0ST in Caledonian Railway Blue
 
 ## Coaches
