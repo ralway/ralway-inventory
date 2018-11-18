@@ -7,10 +7,10 @@
 
 
 ## POINTS
-*  1 × LIMA 403050                  (Right Hand)
+*  2 × LIMA 403050                  (Right Hand)
 *  1 × LIMA 403051                  (Left Hand)
 *  6 × HORNBY R612                  (Left Hand)
-*  3 × HORNBY R613                  (Right Hand)
+*  4 × HORNBY R613                  (Right Hand)
 *  2 × HORNBY R623                  (Right Hand)
 *  1 × HORNBY R640                  (Left Hand)
 *  1 × HORNBY R641                  (Right Hand)
