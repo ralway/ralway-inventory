@@ -49,6 +49,8 @@ W68855 | 20T Brake Van  | Medium TL | Ex-GWR 20 ton 'Toad' brake van in grey
 
 Abbrev. | Meaning
 --------|--------
+BCK     | Brake Composite Corridor
 BSK     | Brake Standard Corridor
+TY      | Third-class, four wheel
 NR      | Network Rail
 TL      | Tension Lock
