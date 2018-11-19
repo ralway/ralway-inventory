@@ -43,6 +43,7 @@ W68855 | 20T Brake Van  | Medium TL | Ex-GWR 20 ton 'Toad' brake van in grey
 …      | Horsebox       | Large TL  | In LMS Red Livery
 …      | 8T Open Wagon  | Large TL  | 2 × In Blue, with Crook & Greenway Livery
 …      | 8T Open Wagon  | Large TL  | In Red, with Hornby 1992 anniversary livery
+AR14228| 37.5T Hopper   | Large TL  | In Beige, ARC Amey Roadstone
 
 
 # Abbreviations
