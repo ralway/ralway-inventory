@@ -15,7 +15,7 @@ Number | Class | Coupling        | Details
 1220   | 1200  | European Loop   | NS Co-Co electric in NS Grey and Yellow Livery
 4      | 101   | Large TL        | GWR 0-4-0PT in Bright Green
 8      | 0F    | Large TL        | Highland Railway 0-4-0ST in Caledonian Railway Blue
-1306   | Mv9   | Mini TL & Profi | 2 × O&K Class Mv9 Industrial Shunter in Dark Green with Yellow lining 
+1306   | Mv9   | Mini TL & Profi | 2 × O&K Class Mv9 Industrial Shunter in Dark Green with Yellow lining (Fleischmann 11/1344)
 
 ## Coaches
 
