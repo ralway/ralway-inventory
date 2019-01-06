@@ -40,6 +40,7 @@ W68855 | 20T Brake Van  | Medium TL | Ex-GWR 20 ton 'Toad' brake van in grey
 221119 | 12T Lowfit     | Medium TL | NER 12 ton 1 plank Lowfit wagon in bauxite
  70247 | 30T Bogie Bolster | Medium TL | GWR 30 ton 'Macaw B' (BR Bogie Bolster C) in grey
 123507 | 12T Van        | Medium TL | GWR 12 ton 'Mink' ventilated van in grey
+    51 | 10T Open Wagon | Large TL  | Trimsaran Co Ltd 3 plank private owner wagon in red
 …      | Closed Van     | Large TL  | Weetabix van in Yellow
 230069 | 18T Ventilated | Large TL  | In BR Goods Livery
 …      | Horsebox       | Large TL  | In LMS Red Livery
