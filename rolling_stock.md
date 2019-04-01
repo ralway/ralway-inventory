@@ -36,23 +36,23 @@ JRHA  | 82207  | DVT    | Large TL  | Hornby       | …          | Mark 4 DVT i
 
 ## Wagons
 
-Owner | Number  | Type              | Coupling  | Details
-------|--------:|-------------------|-----------|---------
-JRHA  | …       | 20T Brake Van     | Hornby TL | Ex-LNER 'Toad E' goods brake van in Engineer's Yellow, NR Livery
-JRHA  | …       | 12T Tank Wagon    | Hornby TL | Hurst Nelson 12 ton Tank Wagon in Engineer's Yellow, NR Livery
-JRHA  | …       | 13T Open Wagon    | Hornby TL | 13T Medfit steel open wagon in Engineer's Yellow, NR Livery
-AC    | 24361   | 12T Open Wagon    | Medium TL | LMS 12T 5 plank open wagon in grey
-AC    | W68855  | 20T Brake Van     | Medium TL | Ex-GWR 20 ton 'Toad' brake van in grey
-AC    | 221119  | 12T Lowfit        | Medium TL | NER 12 ton 1 plank Lowfit wagon in bauxite
-AC    | 70247   | 30T Bogie Bolster | Medium TL | GWR 30 ton 'Macaw B' (BR Bogie Bolster C) in grey
-AC    | 123507  | 12T Van           | Medium TL | GWR 12 ton 'Mink' ventilated van in grey
-AC    | 51      | 10T Open Wagon    | Large TL  | Trimsaran Co Ltd 3 plank private owner wagon in red
-JRHA  | …       | Closed Van        | Large TL  | Weetabix van in Yellow
-JRHA  | 230069  | 18T Ventilated    | Large TL  | In BR Goods Livery
-JRHA  | …       | Horsebox          | Large TL  | In LMS Red Livery
-JRHA  | …       | 8T Open Wagon     | Large TL  | 2 × In Blue, with Crook & Greenway Livery
-JRHA  | …       | 8T Open Wagon     | Large TL  | In Red, with Hornby 1992 anniversary livery
-JRHA  | AR14228 | 37.5T Hopper      | Large TL  | In Beige, ARC Amey Roadstone
+Owner | Number  | Type              | Coupling  | Manufacturer | Model   | Details
+------|--------:|-------------------|-----------|--------------|---------|---------
+JRHA  | …       | 20T Brake Van     | Hornby TL | …            | …       | Ex-LNER 'Toad E' goods brake van in Engineer's Yellow, NR Livery
+JRHA  | …       | 12T Tank Wagon    | Hornby TL | …            | …       | Hurst Nelson 12 ton Tank Wagon in Engineer's Yellow, NR Livery
+JRHA  | …       | 13T Open Wagon    | Hornby TL | …            | …       | 13T Medfit steel open wagon in Engineer's Yellow, NR Livery
+AC    | 24361   | 12T Open Wagon    | Medium TL | …            | …       | LMS 12T 5 plank open wagon in grey
+AC    | W68855  | 20T Brake Van     | Medium TL | …            | …       | Ex-GWR 20 ton 'Toad' brake van in grey
+AC    | 221119  | 12T Lowfit        | Medium TL | …            | …       | NER 12 ton 1 plank Lowfit wagon in bauxite
+AC    | 70247   | 30T Bogie Bolster | Medium TL | …            | …       | GWR 30 ton 'Macaw B' (BR Bogie Bolster C) in grey
+AC    | 123507  | 12T Van           | Medium TL | …            | …       | GWR 12 ton 'Mink' ventilated van in grey
+AC    | 51      | 10T Open Wagon    | Large TL  | …            | …       | Trimsaran Co Ltd 3 plank private owner wagon in red
+JRHA  | …       | Closed Van        | Large TL  | …            | …       | Weetabix van in Yellow
+JRHA  | 230069  | 18T Ventilated    | Large TL  | …            | …       | In BR Goods Livery
+JRHA  | …       | Horsebox          | Large TL  | …            | …       | In LMS Red Livery
+JRHA  | …       | 8T Open Wagon     | Large TL  | …            | …       | 2 × In Blue, with Crook & Greenway Livery
+JRHA  | …       | 8T Open Wagon     | Large TL  | …            | …       | In Red, with Hornby 1992 anniversary livery
+JRHA  | AR14228 | 37.5T Hopper      | Large TL  | …            | …       | In Beige, ARC Amey Roadstone
 
 
 # Abbreviations
