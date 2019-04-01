@@ -4,6 +4,7 @@
 
 Owner | Number  | Class | Coupling        | Manufacturer | Model   | DCC  | Details
 ------|--------:|-------|-----------------|--------------|---------|-----:|---------
+AC    | 4588    | 4575  |                 | Lima         | …       | ∅    | GWR 2-6-2T in filthy green
 AC    | 7738    | 5700  | Bachmann Mk1 TL | Replica      | 11001   | ∅    | GWR 0-6-0PT in green with "shirtbutton" roundel
 JRHA  | 7768    | 5700  | Bachmann Mk1 TL | Replica      | 11001   | ∅    | GWR 0-6-0PT in green with "shirtbutton" roundel
 JRHA  | 32500   | E4    | Bachmann Mk2 TL | Bachmann     | 35-078  | ∅    | LB&SCR 0-6-2T in Lined Black, Late Crest
