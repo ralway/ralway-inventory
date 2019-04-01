@@ -33,6 +33,7 @@ JRHA  | 127001-6 | ES64P | European Loop   | Lima         | 208412  |  127 | Sie
 Owner | Number  | Class | Coupling        | Manufacturer | Model   | DCC  | Details
 ------|--------:|-------|-----------------|--------------|---------|-----:|---------
 AC    | W55024  | 121   |                 | Lima         | L204928 | ∅    |
+JRHA  | 49003   | 370   | Fixed Drawbar   | Hornby       | …       | ∅    | APT-P Electric Non-Driving Motor Car "City of Derby"
 
 ## Coaches
 
@@ -45,6 +46,10 @@ JRHA  | ∅      | TY     | Large TL  | Hornby       | R016?      | 4-wheel coac
 JRHA  | ∅      | TY     | Large TL  | Hornby       | R016 * 060 | Third class 4-wheel coach in Maroon
 JRHA  | 12     | TY     | Large TL  | Hornby       | R016?      | 3 × Composite 4-wheel coach in Chocolate and Cream
 JRHA  | 82207  | DVT    | Large TL  | Hornby       | …          | Mark 4 DVT in InterCity Swallow Livery
+JRHA  | 48101  | DTS    | ∅         | Hornby       | …          | APT-P
+JRHA  | 48102  | DTS    | ∅         | Hornby       | …          | APT-P
+JRHA  | 48601  | TBF    | ∅         | Hornby       | …          | APT-P
+JRHA  | 48602  | TBF    | ∅         | Hornby       | …          | APT-P
 
 ## Wagons
 
@@ -74,11 +79,14 @@ Abbrev. | Meaning
 BCK     | Brake Composite Corridor
 BSK     | Brake Standard Corridor
 DCC     | Digital Command Control
+DTS     | Driving Trailer Second
 DVT     | Driving Van Trailer
 GWR     | Great Western Railway
 LB&SCR  | London, Brighton and South Coast Railway
 LNER    | London and North Eastern Railway
+NDM     | Non-Driving Motor
 NER     | North Eastern Railway
 NR      | Network Rail
 TY      | Third-class, four wheel
+TBF     | Trailer Brake First
 TL      | Tension Lock
