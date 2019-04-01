@@ -10,7 +10,7 @@ JRHA  | 06003    | 06    | Large TL        | Hornby       | …       | 6003 | N
 AC    | 09026    | 09/0  | Large TL        | Lima         | …       | ∅    | BR 0-6-0 diesel-electric in Rail Blue
 JRHA  | 73138    | 73/1  | Bachmann Mk2 TL | Hornby       | …       | ∅    | NR Bo-Bo electro-diesel in Engineer's Yellow, 90 mph max speed
 JRHA  | 32500    | E4    | Bachmann Mk2 TL | Bachmann     | 35-078  | ∅    | LB&SCR 0-6-2T in Lined Black, Late Crest
-JRHA  | 60163    | A1    | Bachmann Mk2 TL | Bachmann     | 32-550A | 0163 | LNER 4-6-2 in BR Apple Green
+JRHA  | 60163    | A1    | Bachmann Mk2 TL | Bachmann     | 32-550A |  163 | LNER 4-6-2 in BR Apple Green
 JRHA  | 55022    | 55    | Large TL        | Lima         | …       | 5022 | BR Co-Co diesel-electric in Rail Blue
 JRHA  | 1220     | 1200  | European Loop   | Lima         | …       | ∅    | NS Co-Co electric in NS Grey and Yellow Livery
 JRHA  | 4        | 101   | Large TL        | Hornby       | …       | ∅    | GWR 0-4-0PT in Bright Green
