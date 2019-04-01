@@ -1,26 +1,38 @@
 # Rolling Stock
 
-## Locomotives
+## Steam Locomotives
 
 Owner | Number   | Class | Coupling        | Manufacturer | Model   | DCC  | Details
 ------|---------:|-------|-----------------|--------------|---------|-----:|---------
+AC    | 4588     | 4575  |                 | Lima         | …       | ∅    | GWR 2-6-2T in filthy green
 AC    | 7738     | 5700  | Bachmann Mk1 TL | Replica      | 11001   | ∅    | GWR 0-6-0PT in green with "shirtbutton" roundel
 JRHA  | 7768     | 5700  | Bachmann Mk1 TL | Replica      | 11001   | ∅    | GWR 0-6-0PT in green with "shirtbutton" roundel
+JRHA  | 32500    | E4    | Bachmann Mk2 TL | Bachmann     | 35-078  | ∅    | LB&SCR 0-6-2T in Lined Black, Late Crest
+JRHA  | 60163    | A1    | Bachmann Mk2 TL | Bachmann     | 32-550A |  163 | LNER 4-6-2 in BR Apple Green
+JRHA  | 4        | 101   | Large TL        | Hornby       | …       | ∅    | GWR 0-4-0PT in Bright Green
+JRHA  | 8        | 0F    | Large TL        | Hornby       | …       | ∅    | Highland Railway 0-4-0ST in Caledonian Railway Blue
+JRHA  | 012      | 101   | Large TL        | Hornby       | R1210   | ∅    | GWR 0-4-0PT in Red "Santa Express" Livery
+
+## Other Locomotives
+
+Owner | Number   | Class | Coupling        | Manufacturer | Model   | DCC  | Details
+------|---------:|-------|-----------------|--------------|---------|-----:|---------
 JRHA  | 06003    | 06    | Large TL        | Hornby       | …       | 6003 | NR 0-4-0 diesel-mechanical shunter in Engineer's Yellow
 AC    | 09026    | 09/0  | Large TL        | Lima         | …       | ∅    | BR 0-6-0 diesel-electric in Rail Blue
 JRHA  | 73138    | 73/1  | Bachmann Mk2 TL | Hornby       | …       | 3138 | NR Bo-Bo electro-diesel in Engineer's Yellow, 90 mph max speed
-JRHA  | 32500    | E4    | Bachmann Mk2 TL | Bachmann     | 35-078  | ∅    | LB&SCR 0-6-2T in Lined Black, Late Crest
-JRHA  | 60163    | A1    | Bachmann Mk2 TL | Bachmann     | 32-550A |  163 | LNER 4-6-2 in BR Apple Green
 JRHA  | 55022    | 55    | Large TL        | Lima         | …       | 5022 | BR Co-Co diesel-electric in Rail Blue
 JRHA  | 1220     | 1200  | European Loop   | Lima         | …       | 1220 | NS Co-Co electric in NS Grey and Yellow Livery
-JRHA  | 4        | 101   | Large TL        | Hornby       | …       | ∅    | GWR 0-4-0PT in Bright Green
-JRHA  | 8        | 0F    | Large TL        | Hornby       | …       | ∅    | Highland Railway 0-4-0ST in Caledonian Railway Blue
 JRHA  | 1306     | Mv9   | Mini TL & Profi | Fleischmann  | 11/1344 | ∅    | O&K Industrial Shunter in Dark Green with Yellow lining
 JRHA  | 1306     | Mv9   | Mini TL & Profi | Fleischmann  | 11/1344 | ∅    | O&K Industrial Shunter in Dark Green with Yellow lining
-JRHA  | 012      | 101   | Large TL        | Hornby       | R1210   | ∅    | GWR 0-4-0PT in Red "Santa Express" Livery
 JRHA  | 11156    | Re4/4 | Mini TL         | Fleischmann  | 4340    | 1156 | SBB/FFS in Dark Green
 JRHA  | MPP0007  | WT 27 | ∅               | Bachmann     | 32-993  | ∅    | Type 27 Wickham Trolley and trailer in Engineers Yellow with wasp stripes
 JRHA  | 127001-6 | ES64P | European Loop   | Lima         | 208412  |  127 | Siemens Krauss-Maffei Bo-Bo Electric EuroSprinter Prototype
+
+## Multiple Units
+
+Owner | Number  | Class | Coupling        | Manufacturer | Model   | DCC  | Details
+------|--------:|-------|-----------------|--------------|---------|-----:|---------
+AC    | W55024  | 121   |                 | Lima         | L204928 | ∅    |
 
 ## Coaches
 
