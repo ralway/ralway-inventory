@@ -21,6 +21,12 @@ JRHA  | 012     | 101   | Large TL        | Hornby       | R1210   | ∅    | GW
 JRHA  | 11156   | Re4/4 | Mini TL         | Fleischmann  | 4340    | 1156 | SBB/FFS in Dark Green
 JRHA  | MPP0007 | WT 27 | ∅               | Bachmann     | 32-993  | ∅    | Type 27 Wickham Trolley and trailer in Engineers Yellow with wasp stripes
 
+## Multiple Units
+
+Owner | Number  | Class | Coupling        | Manufacturer | Model   | DCC  | Details
+------|--------:|-------|-----------------|--------------|---------|-----:|---------
+AC    | W55024  | 121   |                 | Lima         | L204928 | ∅    | 
+
 ## Coaches
 
 Owner | Number | Type   | Coupling  | Details
