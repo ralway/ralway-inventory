@@ -24,13 +24,15 @@ JRHA  | 127001-6 | ES64P | European Loop   | Lima         | 208412  |  127 | Sie
 
 ## Coaches
 
-Owner | Number | Type   | Coupling  | Details
-------|-------:|--------|-----------|---------
-AC    | W34860 | BSK    | Small TL  | BR Mk 1 in Chocolate and Cream
-JRHA  |   4920 | BCK    | Large TL  | GWR Collett Composite Brake in Chocolate and Cream with "coat of arms" logo
-JRHA  |   6050 | CK     | Large TL  | 2 × GWR Collett Composite in Chocolate and Cream with "coat of arms" logo
-JRHA  | …      | TY     | Large TL  | Third class 4-wheel coach in Maroon
-JRHA  |  82207 | DVT    | Large TL  | Mark 4 DVT in InterCity Swallow Livery
+Owner | Number | Type   | Coupling  | Manufacturer | Model      | Details
+------|-------:|--------|-----------|--------------|------------|---------
+AC    | W34860 | BSK    | Small TL  | …            | …          | BR Mk 1 in Chocolate and Cream
+JRHA  | 4920   | BCK    | Large TL  | Hornby       | …          | GWR Collett Composite Brake in Chocolate and Cream with "coat of arms" logo
+JRHA  | 6050   | CK     | Large TL  | Hornby       | …          | 2 × GWR Collett Composite in Chocolate and Cream with "coat of arms" logo
+JRHA  | ∅      | TY     | Large TL  | Hornby       | R016?      | 4-wheel coach in Engineer's Yellow — Track Maintenance Department
+JRHA  | ∅      | TY     | Large TL  | Hornby       | R016 * 060 | Third class 4-wheel coach in Maroon
+JRHA  | 12     | TY     | Large TL  | Hornby       | R016?      | 3 × Composite 4-wheel coach in Chocolate and Cream
+JRHA  | 82207  | DVT    | Large TL  | Hornby       | …          | Mark 4 DVT in InterCity Swallow Livery
 
 ## Wagons
 
