@@ -87,6 +87,6 @@ LNER    | London and North Eastern Railway
 NDM     | Non-Driving Motor
 NER     | North Eastern Railway
 NR      | Network Rail
-TY      | Third-class, four wheel
 TBF     | Trailer Brake First
 TL      | Tension Lock
+TY      | Third-class, four wheel
