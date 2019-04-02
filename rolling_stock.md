@@ -27,6 +27,7 @@ JRHA  | 1306     | Mv9   | Mini TL & Profi | Fleischmann  | 11/1344 | ∅    | O
 JRHA  | 11156    | Re4/4 | Mini TL         | Fleischmann  | 4340    | 1156 | SBB/FFS in Dark Green
 JRHA  | MPP0007  | WT 27 | ∅               | Bachmann     | 32-993  | ∅    | Type 27 Wickham Trolley and trailer in Engineers Yellow with wasp stripes
 JRHA  | 127001-6 | ES64P | European Loop   | Lima         | 208412  |  127 | Siemens Krauss-Maffei Bo-Bo Electric EuroSprinter Prototype
+JRHA  | 91014    | 91    | Large TL        | Hornby       | …       | ∅    | BR Bo-Bo Electric in Intercity Swallow Livery
 
 ## Multiple Units
 
@@ -52,6 +53,9 @@ JRHA  | 48101  | DTS    | ∅         | Hornby       | …          | APT-P
 JRHA  | 48102  | DTS    | ∅         | Hornby       | …          | APT-P
 JRHA  | 48601  | TBF    | ∅         | Hornby       | …          | APT-P
 JRHA  | 48602  | TBF    | ∅         | Hornby       | …          | APT-P
+JRHA  | 12408  | TSO    | Large TL  | Hornby       | …          | Mark 4 in Dirty InterCity Swallow Livery
+JRHA  | 12410  | TSO    | Large TL  | Hornby       | …          | Mark 4 in Dirty InterCity Swallow Livery
+JRHA  | 82207  | DVT    | Large TL  | Hornby       | …          | Mark 4 in InterCity Swallow Livery with Lighting
 
 ## Wagons
 
