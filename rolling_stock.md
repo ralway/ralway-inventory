@@ -76,7 +76,14 @@ JRHA  | …       | Horsebox          | Large TL  | …            | …       |
 JRHA  | …       | 8T Open Wagon     | Large TL  | …            | …       | 2 × In Blue, with Crook & Greenway Livery
 JRHA  | …       | 8T Open Wagon     | Large TL  | …            | …       | In Red, with Hornby 1992 anniversary livery
 JRHA  | AR14228 | 37.5T Hopper      | Large TL  | …            | …       | In Beige, ARC Amey Roadstone
-
+JRHA  | 11920   | 12T Van           | Medium TL | DAPOL        | …       | In NE Grey
+JRHA  | 140399  | 12T Van           | Medium TL | DAPOL        | …       | In NE Grey
+JRHA  | 141501  | 12T Van           | Small TL  | DAPOL        | …       | In NE Grey
+JRHA  | 167499  | 12T Van           | Medium TL | DAPOL        | …       | In NE Grey
+JRHA  | 179603  | 12T Van           | Small TL  | DAPOL        | …       | In NE Grey
+JRHA  | 18704   | 12T Van           | Medium TL | DAPOL        | …       | In NE Grey
+JRHA  | 23      | Open Wagon        | Small TL  | Hornby       | …       | In Grey, private owner — Wm BARNARD
+JRHA  | 811     | Open Wagon        | Small TL  | DAPOL        | …       | In Dark Green, private owner — EMLYN
 
 # Abbreviations
 
