@@ -34,6 +34,8 @@ Owner | Number  | Class | Coupling        | Manufacturer | Model   | DCC  | Deta
 ------|--------:|-------|-----------------|--------------|---------|-----:|---------
 AC    | W55024  | 121   |                 | Lima         | L204928 | ∅    |
 JRHA  | 49003   | 370   | Fixed Drawbar   | Hornby       | …       | ∅    | APT-P Electric Non-Driving Motor Car "City of Derby"
+JRHA  | E51254  | 105   | European Loop   | Bachmann     | 31-326  | 56   | DMU (motorised)
+JRHA  | E56412  | 105   | European Loop   | Bachmann     | 31-326  | 56   | DMU (no motor)
 
 ## Coaches
 
